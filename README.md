@@ -49,6 +49,15 @@ Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora. 
 ```
+#### Answer
+To run the program with the answer, run:
+```dart
+dart run ./bin/target_04.dart
+```
+To run the test about the code above, run:
+```dart
+dart test ./test/target_04_test.dart
+```
 
 ### 05 - Reverse text
 ```
