@@ -37,6 +37,15 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 ```
+#### Answer
+To run the program with the answer, run:
+```dart
+dart run ./bin/target_03.dart
+```
+To run the test about the code above, run:
+```dart
+dart test ./test/target_03_test.dart
+```
 
 ### 04 - %
 ```
