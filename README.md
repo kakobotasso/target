@@ -1,5 +1,6 @@
 # Target
-
+Small project just to have fun :)
+**Sorry, I misspelled in one commit and copied to others**
 
 ### 01 - Sum
 ```
@@ -18,6 +19,7 @@ To run the test about the code above, run:
 dart test ./test/target_01_test.dart
 ```
 
+---
 
 ### 02 - Fibonacci
 ```
@@ -34,6 +36,8 @@ To run the test about the code above, run:
 ```dart
 dart test ./test/target_02_test.dart
 ```
+
+---
 
 ### 03 - Vector
 ```
@@ -56,6 +60,8 @@ To run the test about the code above, run:
 dart test ./test/target_03_test.dart
 ```
 
+---
+
 ### 04 - %
 ```
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
@@ -77,6 +83,8 @@ To run the test about the code above, run:
 dart test ./test/target_04_test.dart
 ```
 
+---
+
 ### 05 - Reverse text
 ```
 Escreva um programa que inverta os caracteres de um string.
@@ -93,4 +101,11 @@ dart run ./bin/target_05.dart
 To run the test about the code above, run:
 ```dart
 dart test ./test/target_05_test.dart
+```
+
+---
+
+#### All tests
+```dart
+dart test
 ```
