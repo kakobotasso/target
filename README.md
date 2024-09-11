@@ -25,6 +25,15 @@ Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor semp
 
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 ```
+#### Answer
+To run the program with the answer, run:
+```dart
+dart run ./bin/target_02.dart
+```
+To run the test about the code above, run:
+```dart
+dart test ./test/target_02_test.dart
+```
 
 ### 03 - Vector
 ```
